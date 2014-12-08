@@ -21,3 +21,4 @@ import "range";
 import "nest";
 import "map";
 import "set";
+import "deviation";
